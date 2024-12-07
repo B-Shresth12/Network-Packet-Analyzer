@@ -1,15 +1,27 @@
-# PRODIGY_CS_05
+# Network Packet Analyzer 🌐📡  
 
-<h2>PRODIGY INFOTECH</h2><br />
-TASK 5: Network Packet Analyzer<br />
+Develop a **packet sniffer tool** that captures and analyzes network packets.  
+- Display relevant information such as:  
+  - **Source and Destination IP Addresses**  
+  - **Protocols**  
+  - **Payload Data**  
+- Ensure the tool is used ethically and strictly for **educational purposes**.  
 
-# PRODIGY_CS_05
+---
 
-<h2>PRODIGY INFOTECH</h2><br />
-TASK 5: Develop a packet sniffer tool that captures and analyzes network packets. Display relevant information such as source and destination IP addresses, protocols, and payload data. Ensure the ethical use of the tool for educational purposes.<br />
-<br />
+### 📌 Observations:  
 
-<h3>Observations:</h3>
-<p>
-  Here the code sniffs the network traffics of the network interface of a device. Here the scapy package of python is used to sniff the package.
-</p>
+- The program **sniffs network traffic** on the device’s network interface.  
+- The **Scapy** package in Python is used to implement packet sniffing.  
+
+---
+
+### 🎯 Outcome:  
+
+- Learned how to capture and analyze **network packets**.  
+- Understood network communication at a deeper level.  
+- Gained insights into ethical considerations for network monitoring.  
+
+---
+
+⚠️ **Disclaimer:** This project is for educational purposes only. Use responsibly and within legal boundaries.  
